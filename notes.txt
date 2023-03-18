@@ -1,0 +1,1 @@
+print() is a Python function that simply outputs data to a screen.

@@ -1,0 +1,7 @@
+{
+  "files.maxMemoryForLargeFilesMB": 8000,
+  "typescript.tsserver.maxTsServerMemory": 5000,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true
+}
