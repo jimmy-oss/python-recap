@@ -1,1 +1,7 @@
 print() is a Python function that simply outputs data to a screen.
+
+The strip()method removes any trailing spaces in a string.
+
+The upper() method is used to transform strings to uppercase.
+
+The capitalize()method transforms the first letter of the string to a capital letter.
